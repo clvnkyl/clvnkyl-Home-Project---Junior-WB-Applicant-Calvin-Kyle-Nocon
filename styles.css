@@ -645,6 +645,18 @@ section {
   color: black;
 }
 
+  .contentTitle2 {
+    font-size: 2.5em;
+    font-weight: bold;
+    margin: 0 0 40px 0;
+  }
+
+  .contentDescription2 {
+    text-align: left;
+    font-size: 1.8em;
+    margin: 0 0 40px 0;
+  }
+
 /* FOOTER */
 
 .footerContainer {
