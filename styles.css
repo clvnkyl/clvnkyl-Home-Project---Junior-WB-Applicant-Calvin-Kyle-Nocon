@@ -101,6 +101,23 @@ h1 {
   transform: translate(0, -11px) rotate(45deg);
 }
 
+.book {
+  display: none;
+  position: fixed;
+  bottom: 20px;
+  right: 30px;
+  z-index: 99;
+  border: none;
+  outline: none;
+  background-color: rgba(0, 0, 0, 0.8);
+  color: white;
+  cursor: pointer;
+  border-radius: 10px;
+  font-size: 18px;
+  padding: 15px;
+}
+
+
 /* NAVBAR */
 
 .navBar {
