@@ -31,7 +31,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const observerOptions = {
     root: null,
     rootMargin: "0px",
-    threshold: 1,
+    threshold: 0.5,
   };
 
   const observerCallback = (entries, observer) => {
